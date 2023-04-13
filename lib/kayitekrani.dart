@@ -160,6 +160,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                         fontWeight: FontWeight.w300,
                         fontSize: 17),
                   ),
+                  Text('Github değişiklik kontrolü için eklendi'),
                 ],
               ),
             ),
